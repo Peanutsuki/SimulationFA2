@@ -4,7 +4,7 @@ CS3110 Modelling and Simulation – Output Activity
 
 Monte Carlo and agent-based simulations of a small karinderya (neighbourhood eatery) open 10 AM to 8 PM, with an interactive dashboard. The simulations estimate daily profit, the risk of a loss, customer waiting times, and the effect of changing tables, demand, prices and food cost.
 
-Live dashboard: [add your Streamlit link here]
+Live dashboard: https://peanutsuki-simulationfa2-karinderya-dashboard-ega7vu.streamlit.app/
 
 The two models
 Model	File	What it does
